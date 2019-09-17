@@ -19,7 +19,7 @@ const Image = new ImageToPieces(img, columns, rows);
 
 const tiles = Image.getTiles();
 
-console.log(tites)
+console.log(tiles)
 -> [{data: "data:image/png;base64,..", index: 2,x: 120,y: 0}, {...}]
 ```
 
@@ -35,7 +35,7 @@ Image.loadImageByUrl('https://picsum.photos/200');
 const tiles = Image.getTiles();
 
 
-console.log(tites)
+console.log(tiles)
 -> [{data: "data:image/png;base64,..", index: 2,x: 120,y: 0}, {...}]
 ```
 
