@@ -1,0 +1,18 @@
+{
+  "name": "image-to-pieces",
+  "version": "1.0.0",
+  "description": "Devide image into pieces",
+  "main": "index.js",
+  "author": "Danny Berkelaar",
+  "license": "ISC",
+  "keywords": [
+    "image",
+    "cut",
+    "pieces",
+    "tiles"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/danny12321/image-to-pieces"
+  }
+}
