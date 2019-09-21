@@ -31,7 +31,7 @@ const rows = 5;
 const columns = 5;
 
 const Image = new ImageToPieces(null, columns, rows);
-Image.loadImageByUrl('https://picsum.photos/200');
+await Image.loadImageByUrl('https://picsum.photos/200');
 const tiles = Image.getTiles();
 
 
