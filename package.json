@@ -1,10 +1,10 @@
 {
   "name": "image-to-pieces",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Devide image into pieces",
   "main": "index.js",
   "author": "Danny Berkelaar",
-  "license": "ISC",
+  "license": "MIC",
   "keywords": [
     "image",
     "cut",
