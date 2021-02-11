@@ -4,7 +4,7 @@
   "description": "Devide image into pieces",
   "main": "index.js",
   "author": "Danny Berkelaar",
-  "license": "MIC",
+  "license": "MIT",
   "keywords": [
     "image",
     "cut",
